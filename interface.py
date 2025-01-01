@@ -492,7 +492,7 @@ class FenetreTierList(Tk):
             self.dictionnaire_chansons[self.canvas_tier_list.nombre_paliers].append([chanson, position_arrivee])
             # Mise à jour de l'affichage du canvas :
             self.actualiser_images()
-            print(f"Dictionnaires des artistes et de leurs chansons : {self.dictionnaire_artistes_chansons}")
+            # print(f"Dictionnaires des artistes et de leurs chansons : {self.dictionnaire_artistes_chansons}")
             break
         if len(self.liste_artistes) == 0:
             # Listes des artistes est vide
@@ -619,7 +619,7 @@ class FenetreTierList(Tk):
     def choisir_categorie(self, categorie):
         self.categorie = categorie
         self.dictionnaire_artistes_chansons = self.lecture_fichier_texte()[0]
-        print(self.dictionnaire_artistes_chansons)
+        # print(self.dictionnaire_artistes_chansons)
         self.liste_artistes = self.lecture_fichier_texte()[1]
         categorie_raccourcie = categorie.lstrip("Catégorie_")
         self.title(f"Tier List {categorie_raccourcie}")
