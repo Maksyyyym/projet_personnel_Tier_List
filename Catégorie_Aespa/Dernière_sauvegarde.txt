@@ -1,0 +1,12 @@
+Dictionnaire_artistes_chansons : {'Aespa': ['YeppiYeppi', 'Iconic', 'LucidDream', 'DreamsComeTrue', 'Girls', "Life'sTooShort", 'Illusion', 'Lingo', 'Spicy', 'Salty&Sweet', 'WelcomeToMyWorld', 'Thirsty', 'BetterThings', 'ZoomZoom', 'Drama', 'TrickOrTrick', "Don'tBlink", 'HotAirBalloon']}
+Liste des artistes : ['Aespa']
+Liste des artistes utilisés : ['Aespa']
+Dictionnaire de chansons : {0: [], 1: [], 2: [], 3: [['Savage', (3, 2)]], 4: [['BlackMamba', (4, 2)], ['Aenergy', (4, 3)], ["I'llMakeYouCry", (4, 4)], ['NextLevel', (5, 2)]], 5: []}
+Dictionnaire du nombre de chansons par palier : {0: 0, 1: 0, 2: 0, 3: 1, 4: 4, 5: 0}
+Dictionnaire des numéros de lignes occupées par chaque palier : {0: [0], 1: [1], 2: [2], 3: [3], 4: [4, 5], 5: [6]}
+Dictionnaire des lignes par palier : {0: 1, 1: 1, 2: 1, 3: 1, 4: 2}
+Nombre de lignes : 7
+Nombre de colonnes : 5
+Nombre de paliers : 5
+Lignes des bouttons : 6
+Modèle : Classique
